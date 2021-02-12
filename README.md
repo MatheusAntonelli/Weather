@@ -1,3 +1,3 @@
 Screenshot #1
-![Screenshot](first.png)
+![Screenshot](screenshots/first.png)
 This is a simple weather searcher.
