@@ -1,3 +1,3 @@
 Screenshot #1
-![Alt text](screenshots/first.jpg "Optional Title")
+![Screenshot](first.png)
 This is a simple weather searcher.
